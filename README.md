@@ -1,2 +1,2 @@
-# yuchenyu_hw1
+# yuchenyu
 Programming basic assignments
